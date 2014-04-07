@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_geeb-userdebug
+add_lunch_combo ill_gee-userdebug
+add_lunch_combo ill_gee-user
