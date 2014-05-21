@@ -18,4 +18,4 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # bootanimation
 PRODUCT_COPY_FILES += \
-        vendor/illusion/bootanimation/Illusion768x768.zip:system/media/bootanimation.zip
+		vendor/illusion/bootanimation/720x1280.zip:system/media/bootanimation.zip
